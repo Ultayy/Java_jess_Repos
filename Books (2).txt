@@ -1,1 +1,0 @@
-Book{title ="AAA", author = "BBB", isbn = "CCC", year = "2015",  quantity = "234", ToWhom = "DDD"}
