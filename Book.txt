@@ -1,0 +1,6 @@
+Book title: wed
+book author: dsc
+book isbn:cw
+book year: 2
+book quantity: 1
+------------------------------
